@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+一、学到了哪些技能？
+1、HTML的基本语法知识、如何编写一个简单的网页、遇到了问题应该通过什么途径自主寻找解决方法。
+
+二、哪些内容比较简单？
+1、HTML的基本语言比较简单，目前已经可以写出普通的网页。
+
+三、哪些内容比较复杂？
+1、学习github的过程很复杂，通过网上的教程并没有完全理解，找了我的同事教我使用流程，将进一步加强学习。
+2、有个问题，使用strong加粗文本，为什么加粗效果无法显示呢？
+
+四、你是如何利用 P0 中介绍过的的开发者思维来克服难题的？
+1、在写网页时，会遇到一些没学过的样式，此时通过MDN元素参考查找需要的语法，成功写出了一个简单网页。
